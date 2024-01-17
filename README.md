@@ -1,2 +1,7 @@
-# retoTecnicoDevsu
-Se elabora rectoTecnico para la empresa Devsu, con dos tipos de pruebas IU reponsive y Api Rest
+# projectBaseScreenplay
+Se crea proyecyo base con patron de diseño screenplay 
+
+# AUTOMATIZACIÓN E2E
+Se elige la opcion 2
+
+### PASO A PASO PARA LA EJECUCIÓN
