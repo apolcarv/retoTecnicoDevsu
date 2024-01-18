@@ -1,4 +1,4 @@
-package co.com.devsu.project.ui.getProduct;
+package co.com.devsu.project.ui.getproduct;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;

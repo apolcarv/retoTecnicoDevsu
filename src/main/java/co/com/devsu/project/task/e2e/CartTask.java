@@ -7,8 +7,8 @@ import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.ensure.Ensure;
 import net.thucydides.core.annotations.Step;
 
-import static co.com.devsu.project.ui.youCart.CartUI.BUTTON_CHECKOUT;
-import static co.com.devsu.project.ui.youCart.CartUI.ICON_CART;
+import static co.com.devsu.project.ui.youcart.CartUI.BUTTON_CHECKOUT;
+import static co.com.devsu.project.ui.youcart.CartUI.ICON_CART;
 import static co.com.devsu.project.helpers.Constant.TWO;
 
 public class CartTask implements Task {

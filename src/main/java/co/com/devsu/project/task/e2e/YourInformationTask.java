@@ -12,7 +12,7 @@ import net.thucydides.core.annotations.Step;
 import java.util.Locale;
 import java.util.Random;
 
-import static co.com.devsu.project.ui.checkoutYourInformation.YourInformationUI.*;
+import static co.com.devsu.project.ui.checkoutyourinformation.YourInformationUI.*;
 
 public class YourInformationTask implements Task {
 

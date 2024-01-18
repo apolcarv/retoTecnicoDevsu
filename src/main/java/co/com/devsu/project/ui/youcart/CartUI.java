@@ -1,4 +1,4 @@
-package co.com.devsu.project.ui.youCart;
+package co.com.devsu.project.ui.youcart;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;

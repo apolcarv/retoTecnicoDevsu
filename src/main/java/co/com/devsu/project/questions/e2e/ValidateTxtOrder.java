@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.thucydides.core.annotations.Step;
 
-import static co.com.devsu.project.ui.checkoutOverview.OverView.TXT_MESSAGE_VALIDATE_ORDER;
+import static co.com.devsu.project.ui.checkoutoverview.OverView.TXT_MESSAGE_VALIDATE_ORDER;
 
 @AllArgsConstructor
 @Slf4j

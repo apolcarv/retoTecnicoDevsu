@@ -1,4 +1,4 @@
-package co.com.devsu.project.ui.checkoutYourInformation;
+package co.com.devsu.project.ui.checkoutyourinformation;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;

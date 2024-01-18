@@ -11,7 +11,7 @@ import net.thucydides.core.annotations.Step;
 import static co.com.devsu.project.helpers.Constant.ONE;
 import static co.com.devsu.project.helpers.Constant.SIX;
 import static co.com.devsu.project.helpers.DataFaker.fakerNumberOneAndSix;
-import static co.com.devsu.project.ui.getProduct.SelectProductUI.*;
+import static co.com.devsu.project.ui.getproduct.SelectProductUI.*;
 
 @Slf4j
 public class SelectProductTask implements Task {
