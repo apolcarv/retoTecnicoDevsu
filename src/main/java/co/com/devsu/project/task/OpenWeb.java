@@ -7,7 +7,7 @@ import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.actions.Open;
 import net.thucydides.core.util.EnvironmentVariables;
 
-import static co.com.devsu.project.Utils.Constant.WEB_URL;
+import static co.com.devsu.project.helpers.Constant.WEB_URL;
 import static net.serenitybdd.screenplay.Tasks.instrumented;
 
 public class OpenWeb implements Task {
@@ -18,7 +18,6 @@ public class OpenWeb implements Task {
     public <T extends Actor> void performAs(T actor) {
         String pathWebUrl = EnvironmentSpecificConfiguration.from(environmentVariables).getProperty(WEB_URL);
         actor.attemptsTo(Open.url(pathWebUrl));
-
     }
 
     public static Performable browserURL() {
